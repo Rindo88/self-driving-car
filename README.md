@@ -1,1 +1,1 @@
-project machine learning neural network dengan javascript tentang self driving car
+game 2d Neural network sistem mobil auto pilot menggunakan draw ctx
